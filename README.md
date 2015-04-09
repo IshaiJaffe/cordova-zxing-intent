@@ -13,6 +13,10 @@ To install the plugin, use the Cordova CLI and enter the following:
 
 `cordova plugin add https://github.com/IshaiJaffe/cordova-zxing-intent.git`
 
+Or 
+
+`cordova plugin add com.ishaijaffe.zxingintent`
+
 ## Using the plugin ##
 
 The plugin creates the function `window.plugins.scanintent`:
